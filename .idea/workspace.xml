@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86989e6f-c6e8-435c-9951-a9cf87272b0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/BackspacesInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/DashatizeIt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/MultiTapKeypadTextEntryOldMobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Adults only" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Best-Selling Books" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Collect Tuition" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Easy SQL - Ordering" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Easy SQL: Convert to Hexadecimal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Easy SQL: LowerCase" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Easy SQL: Rounding Decimals" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Grasshopper - Terminal game move function" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/On the Canadian Border" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Register for the Party" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Returning Strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/ConsonantValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/FibonacciTribonacciAndFriends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/WordA10nAbbreviation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +39,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -52,15 +64,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,7 +111,12 @@
       <workItem from="1615536752566" duration="6545000" />
       <workItem from="1615803442367" duration="2293000" />
       <workItem from="1616741381406" duration="3219000" />
-      <workItem from="1617693190543" duration="3618000" />
+      <workItem from="1617693190543" duration="5178000" />
+      <workItem from="1617865577261" duration="464000" />
+      <workItem from="1617866164258" duration="26000" />
+      <workItem from="1617866202112" duration="2860000" />
+      <workItem from="1618233266746" duration="21000" />
+      <workItem from="1619528151874" duration="4652000" />
     </task>
     <servers />
   </component>

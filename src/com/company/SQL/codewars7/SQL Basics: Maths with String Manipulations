@@ -1,0 +1,20 @@
+Given a demographics table in the following format:
+
+** demographics table schema **
+
+id
+name
+birthday
+race
+return a single column named 'calculation' where the value is the bit length of name, added to the number of characters in race.
+
+
+select bit_length(name)+length(race) calculation from demographics
+
+SELECT BIT_LENGTH(name) + CHAR_LENGTH(race) AS calculation FROM demographics
+
+SELECT  length(name)*8 + length(race) AS calculation
+FROM demographics
+
+select bit_length(name)+octet_length(race) as calculation
+from demographics

@@ -2,20 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86989e6f-c6e8-435c-9951-a9cf87272b0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Adults only" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Best-Selling Books" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Collect Tuition" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Easy SQL - Ordering" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Easy SQL: Convert to Hexadecimal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Easy SQL: LowerCase" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Easy SQL: Rounding Decimals" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Grasshopper - Terminal game move function" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/On the Canadian Border" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Register for the Party" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Returning Strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/ConsonantValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/FibonacciTribonacciAndFriends.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/WordA10nAbbreviation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/BASICS: Length based SELECT with LIKE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/Easy SQL: Bit Length" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/Easy SQL: Counting and Grouping" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/GROCERY STORE: Inventory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/Recursion #1 - Factorial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL Basics - Position" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL Basics: Maths with String Manipulations" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL Basics: Raise to the Power" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL Basics: Repeat and Reverse " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL with Harry Potter: Sorting Hat Comparators" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL with LOTR: Elven Wildcards" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL with Street Fighter: Total Wins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL: Concatenating Columns " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Easy SQL: Square Root and Log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Grasshopper - Check for factor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/ArrayDiff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/CheckingGroups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/LengthOfMissingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/PlayPass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/SimpleReversedParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/SumConsecutives.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +43,6 @@
   </component>
   <component name="ProjectId" id="1oNRkmtwIL6qyiw3x1DNGbP3asA" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -116,7 +123,11 @@
       <workItem from="1617866164258" duration="26000" />
       <workItem from="1617866202112" duration="2860000" />
       <workItem from="1618233266746" duration="21000" />
-      <workItem from="1619528151874" duration="4652000" />
+      <workItem from="1619528151874" duration="4783000" />
+      <workItem from="1619591733979" duration="24000" />
+      <workItem from="1620197365048" duration="4771000" />
+      <workItem from="1620283362780" duration="5506000" />
+      <workItem from="1620370994923" duration="5725000" />
     </task>
     <servers />
   </component>

@@ -2,28 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86989e6f-c6e8-435c-9951-a9cf87272b0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/BASICS: Length based SELECT with LIKE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/Easy SQL: Bit Length" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/Easy SQL: Counting and Grouping" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/GROCERY STORE: Inventory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/Recursion #1 - Factorial" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL Basics - Position" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL Basics: Maths with String Manipulations" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL Basics: Raise to the Power" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL Basics: Repeat and Reverse " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL with Harry Potter: Sorting Hat Comparators" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL with LOTR: Elven Wildcards" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL with Street Fighter: Total Wins" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL: Concatenating Columns " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Easy SQL: Square Root and Log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars8/Grasshopper - Check for factor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/ArrayDiff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/CheckingGroups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/LengthOfMissingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/LongestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/PlayPass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/SimpleReversedParenthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/SumConsecutives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars6/SQL Basics: Simple HAVING" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars6/SQL Basics: Simple IN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/Easy SQL: Absolute Value and Log to Base" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/Easy SQL: Cube Root and Natural Log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/GROCERY STORE: Logistic Optimisation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/GROCERY STORE: Support Local Products" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL Basics - Trimming the Field" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL Basics: Create a FUNCTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL Basics: Truncating" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL with Pokemon: Damage Multipliers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL: Disorder" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,13 +60,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,7 +118,8 @@
       <workItem from="1619591733979" duration="24000" />
       <workItem from="1620197365048" duration="4771000" />
       <workItem from="1620283362780" duration="5506000" />
-      <workItem from="1620370994923" duration="5725000" />
+      <workItem from="1620370994923" duration="6723000" />
+      <workItem from="1620826525173" duration="6374000" />
     </task>
     <servers />
   </component>

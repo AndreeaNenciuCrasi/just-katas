@@ -2,17 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86989e6f-c6e8-435c-9951-a9cf87272b0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars6/SQL Basics: Simple HAVING" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars6/SQL Basics: Simple IN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/Easy SQL: Absolute Value and Log to Base" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/Easy SQL: Cube Root and Natural Log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/GROCERY STORE: Logistic Optimisation" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/GROCERY STORE: Support Local Products" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL Basics - Trimming the Field" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL Basics: Create a FUNCTION" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL Basics: Truncating" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL with Pokemon: Damage Multipliers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL: Disorder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/JS/codewars6/ReplaceWithAlphabetPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars6/SQL Basics: Simple JOIN and RANK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars6/SQL Basics: Simple NULL handling" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars6/SQL Basics: Simple UNION ALL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars6/SQL Basics: Simple WITH" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars6/SQL Basics: Top 10 customers by total payments amount" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars6/SQL Bug Fixing: Fix the JOIN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars6/SQL Bug Fixing: Fix the QUERY - Totaling" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/Easy SQL: ASCII Converter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/Easy SQL: Moving Values" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/GROCERY STORE: Real Price!" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL easy regex extraction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL with Sailor Moon: Thinking about JOINs..." afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL: Padding Encryption" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL: Regex Replace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SQL/codewars7/SQL: Right and Left" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/CalculateStringRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/CharacterWithLongestConsecutiveRepetition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/EnglishBeggars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/ExtractFileName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/FormatWordsIntoASentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/Frame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/NewCashier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/NumberZooPatrol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/PascalTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/StringArrayDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/SumOfTwoIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/ThrowWithoutThrowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/TimeFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/TriangleNumberCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/codewars6/WorkingDays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,15 +81,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,7 +138,14 @@
       <workItem from="1620197365048" duration="4771000" />
       <workItem from="1620283362780" duration="5506000" />
       <workItem from="1620370994923" duration="6723000" />
-      <workItem from="1620826525173" duration="6374000" />
+      <workItem from="1620826525173" duration="6962000" />
+      <workItem from="1621242264315" duration="15000" />
+      <workItem from="1621412089857" duration="18000" />
+      <workItem from="1623573004032" duration="622000" />
+      <workItem from="1623673871377" duration="83000" />
+      <workItem from="1625466228062" duration="8765000" />
+      <workItem from="1625648828969" duration="5435000" />
+      <workItem from="1625727443984" duration="7979000" />
     </task>
     <servers />
   </component>
